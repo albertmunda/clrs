@@ -19,6 +19,6 @@ int cut_rod(int p[], int n){
 
 int main(){
     int p[]={0,1,5,8,9,10,17,17,20,24,30};
-    cout<<cut_rod(p,10)<<endl;
+    cout<<cut_rod(p,30)<<endl;
     return 0;
 }
