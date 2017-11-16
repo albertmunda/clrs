@@ -8,8 +8,6 @@
 using namespace std;
 
 
-
-
 int cut_rod(int p[], int n){
     if (n==0) return 0;
     int q = numeric_limits<int>::min();
